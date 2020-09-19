@@ -1,0 +1,38 @@
+/* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual-1 {
+  width: 100%;
+  height: 200px;
+  background-image: url(img_1-6ex/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-visual-2 {
+  width: 100%;
+  height: 200px;
+  background-image: url(img_1-6ex/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-visual-3 {
+  width: 100%;
+  height: 200px;
+  background-image: url(img_1-6ex/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-visual-4 {
+  width: 100%;
+  height: 200px;
+  background-image: url(img_1-6ex/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
